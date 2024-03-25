@@ -1,5 +1,1 @@
 Text 1
-
-Added new text.
-
-Added wrong text.
